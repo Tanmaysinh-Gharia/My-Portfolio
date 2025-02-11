@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.f9c1a179.css",
+    "main.js": "/My-Portfolio/static/js/main.3049f266.js",
+    "static/js/415.4d6acbeb.chunk.js": "/My-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/My-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/myresume.pdf": "/My-Portfolio/static/media/myresume.acfd3fa2ad451fe7509b.pdf",
+    "static/media/forFoody.png": "/My-Portfolio/static/media/forFoody.72b158f19323890d649c.png",
+    "static/media/shopping_portal.jpg": "/My-Portfolio/static/media/shopping_portal.40136fc2d51346b8e3fd.jpg",
+    "static/media/home-main.svg": "/My-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/My-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/angry.jpg": "/My-Portfolio/static/media/angry.94c30b57ead07d22e292.jpg",
+    "static/media/logo.png": "/My-Portfolio/static/media/logo.4848e7a6f5e1d20ceb1a.png",
+    "static/media/wanderlust.png": "/My-Portfolio/static/media/wanderlust.f530648ab6e93e6ef9ab.png",
+    "static/media/spotifyClone.png": "/My-Portfolio/static/media/spotifyClone.e08e95e33b97142b877b.png",
+    "static/media/home-bg.jpg": "/My-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/My-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/My-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.f9c1a179.css.map": "/My-Portfolio/static/css/main.f9c1a179.css.map",
+    "main.3049f266.js.map": "/My-Portfolio/static/js/main.3049f266.js.map",
+    "415.4d6acbeb.chunk.js.map": "/My-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/My-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9c1a179.css",
+    "static/js/main.3049f266.js"
+  ]
+}
