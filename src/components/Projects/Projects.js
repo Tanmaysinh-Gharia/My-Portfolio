@@ -5,6 +5,7 @@ import spotifyClone from "../../Assets/Projects/spotifyClone.png";
 import forFoody from "../../Assets/Projects/forFoody.png";
 import angrybird from "../../Assets/Projects/angry.jpg";
 import shopping_portal from "../../Assets/Projects/shopping_portal.jpg";
+import task_management from "../../Assets/Projects/Task Management.png";
 import wanderlust from "../../Assets/Projects/wanderlust.png";
 
 function Projects() {
@@ -19,6 +20,28 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={13} className="project-card">
+            <ProjectCard
+              imgPath={task_management}
+              isBlog={false}
+              title=" Task & User Management Platform  &nbsp;&nbsp;📝"
+              download_url = 'https://drive.google.com/file/d/1BL2KUHEQn-sh2ekFX50w5c3fuhBevsdj/view?usp=sharing'
+              description={
+                <>
+                  🏗 Clean Layered Architecture (Web → Services → API → Business → Data → Core) with strict boundaries.<br/>
+                  🔐 JWT Auth + Role-based Authorization (Admin/User) using HttpOnly/Secure cookies; robust ownership checks.<br/>
+                  🔁 Personal vs Admin-assigned tasks with transactional updates (Unit of Work) and task history safety.<br/>
+                  ⚙️ SP-powered Filtering: search/sort/status/priority/pagination via one stored procedure (EF migration-managed).<br/>
+                  🧭 Service Layer over Flurl for typed API calls; Global Exception Middleware & unified ApiResponse.<br/>
+                  ✏️ Smooth UX: Partial views + AJAX for inline title/status edits; clean, testable endpoints.<br/>
+                  🧭 AutoMapper profiles (ViewModel ↔ Entity), repository pattern, seeded DbContext, result models via `.HasNoKey()`. <br/>
+                  🛡️ Security-first: JWT rotation-ready design, no sensitive fields in views, consistent error handling.<br/>
+                  👨‍💻 Tech Used: C#, ASP.NET Core MVC, EF Core, SQL Server (SP), AutoMapper, Flurl.Http, Razor, jQuery/AJAX.
+                </>
+              }
+              ghLink="https://github.com/Tanmaysinh-Gharia/Task-Management"
+            />
+          </Col>
           <Col md={12} className="project-card">
             <ProjectCard
               imgPath={shopping_portal}
@@ -48,17 +71,17 @@ function Projects() {
               isBlog={false}
               title="Angry Bird Game"
               description={<>
-              🛠️ Built with Pygame & Pymunk – Realistic 2D physics-based interactions.<br/>
-🎯 Multi-Level Gameplay – Static and dynamic pig behaviors with varying difficulties.<br/>
-🏹 Advanced Projectile Mechanics – Slingshot physics with trajectory calculation.<br/>
-🕹️ Cheat System – Toggle gravity, walls, and instant quit using keyboard shortcuts.<br/>
-🏆 Dynamic Scoring Algorithm – Calculates scores based on destruction and remaining birds.<br/>
-⏸️ State Management – Pause and resume game states without losing progress.<br/>
-🔄 Event-Driven Architecture – Efficient handling of user input and game logic.<br/>
-📦 Modular Codebase – Organized structure for easy modifications and feature additions.<br/>
-⚡ Optimized Rendering – Efficient sprite handling to reduce lag on lower-end systems.<br/>
-🚀 Open-Source & Extensible – Easily customizable with additional levels, birds, or mechanics.<br/>
-👨‍💻 Tech Used: Python, Pygame, Pymunk.<br/>
+                🛠️ Built with Pygame & Pymunk – Realistic 2D physics-based interactions.<br/>
+                🎯 Multi-Level Gameplay – Static and dynamic pig behaviors with varying difficulties.<br/>
+                🏹 Advanced Projectile Mechanics – Slingshot physics with trajectory calculation.<br/>
+                🕹️ Cheat System – Toggle gravity, walls, and instant quit using keyboard shortcuts.<br/>
+                🏆 Dynamic Scoring Algorithm – Calculates scores based on destruction and remaining birds.<br/>
+                ⏸️ State Management – Pause and resume game states without losing progress.<br/>
+                🔄 Event-Driven Architecture – Efficient handling of user input and game logic.<br/>
+                📦 Modular Codebase – Organized structure for easy modifications and feature additions.<br/>
+                ⚡ Optimized Rendering – Efficient sprite handling to reduce lag on lower-end systems.<br/>
+                🚀 Open-Source & Extensible – Easily customizable with additional levels, birds, or mechanics.<br/>
+                👨‍💻 Tech Used: Python, Pygame, Pymunk.<br/>
               </>}
               ghLink="https://github.com/Tanmaysinh-Gharia/Angry-Bird-with-cheats-.git"
               // demoLink="https://main--personalmanager.netlify.app/login"

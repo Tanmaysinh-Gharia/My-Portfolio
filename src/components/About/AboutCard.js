@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Tanmaysinh Gharia </span>
             from <span className="purple"> Gujarat, India.</span>
             <br />
-            I am currently pursuing Bacherlors of Engineering in <span className="purple">Computer Science & Engineering </span>  from <br/> Nirma University (Tier- I), currently in my Final Year.
+            I am an Experienced <span className="purple">BackEnd Developer with working ASP.NET framwork</span> & I Have completed Bacherlors of Engineering in <span className="purple">Computer Science & Engineering </span>  from <br/> Nirma University (Tier- I).
             <br />
             
             <br />

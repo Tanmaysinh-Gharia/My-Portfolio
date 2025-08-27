@@ -39,16 +39,6 @@ function FindMe() {
               </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/tanmaysinh-gharia-b84743223/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
                   href="https://www.instagram.com/tanmaysinh_gharia"
                   target="_blank"
                   rel="noreferrer"

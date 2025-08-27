@@ -16,18 +16,18 @@ import { TbSql } from "react-icons/tb";
 import { SiC, SiCsharp } from "react-icons/si";
 
 const techStack = [
-  { icon: <DiPhp />, name: "PHP" },
   { icon: <DiDotnet />, name: ".NET" },
-  { icon: <DiJavascript1 />, name: "JavaScript" },
   { icon: <TbSql />, name: "SQL" },
+  { icon: <SiCsharp />, name: "C#" },
+  { icon: <FaProjectDiagram />, name: "Data Structures & Algorithms" },
+  { icon: <DiMongodb />, name: "MongoDB" },
+  { icon: <DiPhp />, name: "PHP" },
+  { icon: <DiJavascript1 />, name: "JavaScript" },
   { icon: <DiNodejs />, name: "Node.js" },
   { icon: <DiReact />, name: "React" },
-  { icon: <DiMongodb />, name: "MongoDB" },
   { icon: <SiC />, name: "C" },
-  { icon: <SiCsharp />, name: "C#" },
   { icon: <DiPython />, name: "Python" },
-  { icon: <DiJava />, name: "Java" },
-  { icon: <FaProjectDiagram />, name: "Data Structures & Algorithms" }
+  { icon: <DiJava />, name: "Java" }
 ];
 
 function Techstack() {
