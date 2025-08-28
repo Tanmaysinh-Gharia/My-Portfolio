@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.f9c1a179.css",
-    "main.js": "/My-Portfolio/static/js/main.3e7787e9.js",
+    "main.js": "/My-Portfolio/static/js/main.6b81fc8d.js",
     "static/js/415.4d6acbeb.chunk.js": "/My-Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/My-Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/myresume.pdf": "/My-Portfolio/static/media/myresume.4aedf733fa29322fd722.pdf",
+    "static/media/My_ResumeForFreeLance.pdf": "/My-Portfolio/static/media/My_ResumeForFreeLance.590094529e429d7d53aa.pdf",
     "static/media/forFoody.png": "/My-Portfolio/static/media/forFoody.72b158f19323890d649c.png",
+    "static/media/Task Management.png": "/My-Portfolio/static/media/Task Management.187d645e912ed9868162.png",
     "static/media/shopping_portal.jpg": "/My-Portfolio/static/media/shopping_portal.40136fc2d51346b8e3fd.jpg",
     "static/media/home-main.svg": "/My-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/My-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -18,12 +19,12 @@
     "static/media/pre.svg": "/My-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/My-Portfolio/index.html",
     "main.f9c1a179.css.map": "/My-Portfolio/static/css/main.f9c1a179.css.map",
-    "main.3e7787e9.js.map": "/My-Portfolio/static/js/main.3e7787e9.js.map",
+    "main.6b81fc8d.js.map": "/My-Portfolio/static/js/main.6b81fc8d.js.map",
     "415.4d6acbeb.chunk.js.map": "/My-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/My-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9c1a179.css",
-    "static/js/main.3e7787e9.js"
+    "static/js/main.6b81fc8d.js"
   ]
 }
