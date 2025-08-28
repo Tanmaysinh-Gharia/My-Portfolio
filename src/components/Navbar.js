@@ -107,7 +107,7 @@ function NavBar() {
                 Mail
               </Nav.Link>
             </Nav.Item>
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 href="https://www.linkedin.com/in/tanmaysinh-gharia-b84743223/"
                 activeClassName="active"
@@ -118,7 +118,7 @@ function NavBar() {
                 />{" "}
                 
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
             <Nav.Item>
               <Nav.Link
                 href="https://github.com/Tanmaysinh-Gharia"
